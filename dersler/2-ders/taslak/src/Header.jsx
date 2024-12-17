@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div>
     {/* yorum satırı */}
-        <p>Hello World</p>
+        <h1 style={{color: "pink", fontWeight: "bold"}  }>Header</h1>
     </div>
   )
 }
